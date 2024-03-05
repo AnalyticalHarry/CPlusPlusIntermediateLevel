@@ -57,9 +57,8 @@ int main() {
 }
 
 
-// g++ 1 LoadingDataSet.cpp -o LoadingDataSet.exe
-// .\ 1 LoadingDataSet.exe
-
+// g++ readCSV.cpp -o readCSV.exe
+// .\readCSV.exe
 
 // Code pushed on 05.03.2024
 // Hemant Thapa
