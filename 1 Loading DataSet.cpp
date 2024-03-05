@@ -57,8 +57,8 @@ int main() {
 }
 
 
-// g++ LoadingDataSet.cpp -o LoadingDataSet.exe
-// .\LoadingDataSet.exe
+// g++ 1 LoadingDataSet.cpp -o LoadingDataSet.exe
+// .\ 1 LoadingDataSet.exe
 
 
 // Code pushed on 05.03.2024
